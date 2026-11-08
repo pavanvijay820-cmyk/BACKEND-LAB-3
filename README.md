@@ -1,9 +1,9 @@
 # Lab 3: REST API, Query Parameters, Validation and Debugging
 
-**Name:** Latchipatruni Charan Teja  
-**Registration Number:** 252U1R8045  
-**Class:** B.Tech CSE(QE) – 2B  
-**Section:** S-13 204
+**Name:** B VIJAY KUMAR REDDY 
+**Registration Number:** 252U1R5014  
+**Class:** B.Tech CSE(AI&DE) – 2A
+**Section:** S-10 106
 
 ## Objective
 
